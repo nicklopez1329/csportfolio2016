@@ -1,0 +1,31 @@
+#navbar {
+    text-align:center;
+}
+
+#navbar li {
+    display:inline-block;
+    Border:2px solid black;
+    padding: 10px;
+    Background-color:blue;
+}
+
+#navbar a {
+    color: White;
+}
+#aboutme{
+    background-color:blue;
+    color:white;
+    border:2px solid black;
+    margin-top:%;1
+}
+#container >*{
+    display: inline-block;
+    vertical-align:top;
+}
+#funfacts{
+    text-decoration:bold;
+    font-size:25px;
+    background-color:blue;
+    color:white;
+    border:2px solid black;
+}
